@@ -1,0 +1,2 @@
+#!/bin/bash
+omit < ls -lRa
